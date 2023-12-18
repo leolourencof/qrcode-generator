@@ -103,3 +103,7 @@ mono_crash.*
 
 # Windows shortcuts
 *.lnk
+
+# Ignore binary directories
+bin
+obj

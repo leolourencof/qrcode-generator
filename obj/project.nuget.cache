@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7rVRvwGsZ/Nucrkq6tJ3dOgOpPMr3kc8x12ZsJRxN9m+/weG9mTWuh+CqcyqdWx99pC2yDwJxMTI6J5r0H066Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Leonardo\\Downloads\\QR-Code\\QR-Code.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leonardo\\.nuget\\packages\\sixlabors.imagesharp\\3.1.1\\sixlabors.imagesharp.3.1.1.nupkg.sha512",
+    "C:\\Users\\Leonardo\\.nuget\\packages\\zxing.net\\0.16.9\\zxing.net.0.16.9.nupkg.sha512"
+  ],
+  "logs": []
+}
